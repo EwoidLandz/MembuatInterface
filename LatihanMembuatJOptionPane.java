@@ -4,7 +4,7 @@
  */
 package MembuatUserInterface;
 import javax.swing.*;
-public class LatihanMembuatOptionPane {
+public class LatihanMembuatJOptionPane {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
